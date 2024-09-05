@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ron Tsarum</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **Hospikol**
+- 🔭 I’m currently working on **Litigation Point**
 
-- 🌱 I’m currently learning **postgresql, remult**
+- 🌱 I’m currently learning **postgresql, aws**
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **elyasaf11@gmail.comn**
+- 📫 How to reach me **Ron@litigationpoint.com**
 
 
 <h3 align="left">Connect with me:</h3>
